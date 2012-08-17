@@ -1,0 +1,6 @@
+adapter: mysql2
+database: charlotte_nc
+encoding: utf8
+username: root
+password:
+
